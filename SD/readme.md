@@ -13,6 +13,7 @@
 
 
 How to fix locked SD card： 
+
 1.  
   ![](https://github.com/xgqfrms/my-problems-handler/tree/master/images/x.png)
 2.  
